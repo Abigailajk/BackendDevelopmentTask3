@@ -33,7 +33,7 @@ Passwords are securely hashed using bcrypt before being stored in a SQLite datab
 Clone the repository:
 
 ```bash
-git clone <repository-[Secure Autentication System](https://github.com/Abigailajk/BackendDevelopmentTask3.git)>
+git clone <repository-[Secure Autentication System](https://github.com/Abigailajk/decodelabs_tasks_3.git)>
 ```
 
 Navigate into the project:
